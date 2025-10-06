@@ -8,19 +8,20 @@ Branches in this repo (with details):
     a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt
     8e20675 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-03T22:20:34-04:00 | Initial commit
 - lab7
-  SHA: 0171cdac1879419880415604dca85b86ef0f0644
-  Commits: 4
+  SHA: 474e9ef48a5b885b84e9cb83f34119aeb4c5cd2d
+  Commits: 5
   Recent commits:
+    474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
     8a1b560 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:22:01Z | Auto-update branch-info.txt
     a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt
     8e20675 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-03T22:20:34-04:00 | Initial commit
 - main
-  SHA: 5950785b1a266631f81a0da9980bee2fb29d3b3a
-  Commits: 6
+  SHA: a40e6cc5e55265aea2860a0ba10856f60b1ea6e6
+  Commits: 7
   Recent commits:
+    a40e6cc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:18:45Z | Auto-update branch-info.txt
     5950785 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:17:39Z | Merge lab7 branch into main
     4d54bdb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:14:54Z | Auto-update branch-info.txt
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
     8a1b560 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:22:01Z | Auto-update branch-info.txt
-    a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt

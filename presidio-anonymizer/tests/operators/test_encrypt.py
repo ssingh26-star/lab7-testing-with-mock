@@ -58,35 +58,14 @@ class TestEncrypt:
             encrypt.validate(params={"key": invalid_key})
 
     def test_operator_name(self):
-        """Test that operator_name returns 'encrypt'"""
-        # Arrange
+        """Test operator_name property"""
         encrypt = Encrypt()
-            
-        # Act & Assert
-        # If operator_name is a property, it should be accessed directly
-        # If it's a method, it should be called with ()
-        # Let's try both approaches:
-        try:
-            result = encrypt.operator_name
-            assert result == "encrypt"
-        except:
-            result = encrypt.operator_name()
-            assert result == "encrypt"
+        assert encrypt.operator_name == "encrypt"
 
     def test_operator_type(self):
-        """Test that operator_type returns Anonymize"""
-        # Arrange
+        """Test operator_type property"""
         encrypt = Encrypt()
-            
-        # Act & Assert
-        # If operator_type is a property, it should be accessed directly
-        # If it's a method, it should be called with ()
-        try:
-            result = encrypt.operator_type
-            assert result == OperatorType.Anonymize
-        except:
-            result = encrypt.operator_type()
-            assert result == OperatorType.Anonymize
+        assert encrypt.operator_type == OperatorType.Anonymize
 
     @pytest.mark.parametrize("key", [
         # String keys
@@ -104,7 +83,7 @@ class TestEncrypt:
         encrypt = Encrypt()
         
         # Act & Assert - should not raise exception
-        Encrypt().validate(params={"key": key})  # CHANGED: Use Encrypt().validate instead of encrypt.validate
+        Encrypt().validate(params={"key": key})  # FIXED: Use Encrypt().validate
 
     # Test to cover the case where key is None (line 48)
     def test_given_none_key_then_ipe_raised(self):

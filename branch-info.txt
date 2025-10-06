@@ -17,11 +17,11 @@ Branches in this repo (with details):
     8a1b560 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:22:01Z | Auto-update branch-info.txt
     a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt
 - main
-  SHA: 24311e73cee628c550e0a156a48c34161f574c84
-  Commits: 11
+  SHA: c3710417c6d8644485c5647fb52f18e9b14f7165
+  Commits: 14
   Recent commits:
+    c371041 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:24:09Z | Merge branch 'lab7'
+    8f16808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:23:18Z | Auto-update branch-info.txt
+    2033aec | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:22:29Z | Complete lab7 tasks by fixing assert methods
     24311e7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:33:45Z | Auto-update branch-info.txt
     e778a17 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:32:44Z | Merge lab7 into main
-    045ea66 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:32:02Z | Auto-update branch-info.txt
-    474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
-    a40e6cc | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:18:45Z | Auto-update branch-info.txt

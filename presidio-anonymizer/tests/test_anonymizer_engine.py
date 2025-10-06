@@ -289,7 +289,7 @@ def test_given_conflict_input_then_merged_correctly(mock_logger):
         original_analyzer_results
     )
     assert anonymizer_result.text == "I'm <LOCATION>."
-    mock_logger.debug.assert_called()
+    assert mock_logger.debug.called 
 
 def _operate(
     text: str,

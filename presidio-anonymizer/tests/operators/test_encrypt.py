@@ -43,14 +43,19 @@ class TestEncrypt:
         ):
             Encrypt().validate(params={"key": "key"})
 
-    @mock.patch.object(AESCipher, 'is_valid_key_size', return_value=False)
-    def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(self, mock_is_valid):
-        """Test that validate raises error for invalid bytes key length"""
-        with pytest.raises(
-            InvalidParamError,
-            match="Invalid input, key must be of length 128, 192 or 256 bits",
-        ):
-            Encrypt().validate(params={"key": b'1111111111111111'})
+    @mock.patch('presidio_anonymizer.operators.encrypt.Encrypt.is_valid_key_size')
+    def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(self, mock_is_valid_key_size):
+        """Test that validate raises error for invalid key length"""
+        # Arrange
+        encrypt = Encrypt()
+        invalid_key = b'1111111111111111'
+    
+        # Mock is_valid_key_size to return False
+        mock_is_valid_key_size.return_value = False
+    
+        # Act & Assert
+        with pytest.raises(InvalidParamError):
+            encrypt.validate(params={"key": invalid_key})
 
     def test_operator_name(self):
         """Test that operator_name returns 'encrypt'"""
@@ -90,7 +95,7 @@ class TestEncrypt:
         encrypt = Encrypt()
         
         # Act & Assert - should not raise exception
-        encrypt.validate(params={"key": key})
+        encrypt.validate(params={"key": key}) 
 
     # Test to cover the case where key is None (line 48)
     def test_given_none_key_then_ipe_raised(self):

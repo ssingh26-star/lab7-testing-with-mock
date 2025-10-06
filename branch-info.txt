@@ -17,11 +17,11 @@ Branches in this repo (with details):
     474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
 - main
-  SHA: 2db912be725c7f7f1b5b6bc5a9c51b31b43b434e
-  Commits: 19
+  SHA: 85accd604ac74e55f55deb0c7c73d25341a4cdcc
+  Commits: 23
   Recent commits:
+    85accd6 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:43:13Z | Merge lab7 into main
+    23fe1ca | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:42:29Z | Current work in progress
+    a78fe2b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:37:55Z | Auto-update branch-info.txt
+    5c7ba44 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:37:10Z | Fix all test requirements for lab7
     2db912b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:31:25Z | Auto-update branch-info.txt
-    231ad44 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:30:58Z | Merge branch 'lab7'
-    c356a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:30:57Z | Auto-update branch-info.txt
-    1d30b41 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:30:39Z | Fix Task 3 and Task 4 requirements
-    7543cd1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:24:45Z | Auto-update branch-info.txt

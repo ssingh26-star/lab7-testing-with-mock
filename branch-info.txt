@@ -8,20 +8,20 @@ Branches in this repo (with details):
     a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt
     8e20675 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-03T22:20:34-04:00 | Initial commit
 - lab7
-  SHA: 2033aece433e99ec31c30947b7d7bb7e0b9b134c
-  Commits: 6
+  SHA: 1d30b415ae54a70951a93b6e46c0b7e4e99f0ea1
+  Commits: 7
   Recent commits:
+    1d30b41 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:30:39Z | Fix Task 3 and Task 4 requirements
     2033aec | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:22:29Z | Complete lab7 tasks by fixing assert methods
     474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
     8a1b560 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:22:01Z | Auto-update branch-info.txt
-    a68a592 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:21:26Z | Auto-update branch-info.txt
 - main
-  SHA: c3710417c6d8644485c5647fb52f18e9b14f7165
-  Commits: 14
+  SHA: 7543cd1fbbf29384189295860858fe84d7989e71
+  Commits: 15
   Recent commits:
+    7543cd1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:24:45Z | Auto-update branch-info.txt
     c371041 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:24:09Z | Merge branch 'lab7'
     8f16808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:23:18Z | Auto-update branch-info.txt
     2033aec | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:22:29Z | Complete lab7 tasks by fixing assert methods
     24311e7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:33:45Z | Auto-update branch-info.txt
-    e778a17 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:32:44Z | Merge lab7 into main

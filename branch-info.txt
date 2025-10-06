@@ -17,11 +17,11 @@ Branches in this repo (with details):
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
     8a1b560 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-04T02:22:01Z | Auto-update branch-info.txt
 - main
-  SHA: 7543cd1fbbf29384189295860858fe84d7989e71
-  Commits: 15
+  SHA: 231ad4473a38346bdd465e5f2e4a79f27d4f78e9
+  Commits: 18
   Recent commits:
+    231ad44 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:30:58Z | Merge branch 'lab7'
+    c356a49 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:30:57Z | Auto-update branch-info.txt
+    1d30b41 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:30:39Z | Fix Task 3 and Task 4 requirements
     7543cd1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:24:45Z | Auto-update branch-info.txt
     c371041 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:24:09Z | Merge branch 'lab7'
-    8f16808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:23:18Z | Auto-update branch-info.txt
-    2033aec | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:22:29Z | Complete lab7 tasks by fixing assert methods
-    24311e7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T21:33:45Z | Auto-update branch-info.txt

@@ -17,11 +17,11 @@ Branches in this repo (with details):
     474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
 - main
-  SHA: 31188d4b11ad427c9a781c335083d1343b2bdf67
-  Commits: 30
+  SHA: 0716b937733b6aad15e8406c6e6552f837860624
+  Commits: 34
   Recent commits:
+    0716b93 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:53:11Z | Complete lab7 with all fixes and merge commit
+    f256ec6 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:46:32Z | Merge pull request #1 from ssingh26-star/lab7
+    a50413a | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:46:12Z | Merge pull request #1 from ssingh26-star/lab7
+    2d81c34 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T02:46:10Z | Auto-update branch-info.txt
     31188d4 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T02:04:32Z | Auto-update branch-info.txt
-    f2b6fe6 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:03:52Z | Fix Task 3: Add proper mock for AESCipher to reach 100% coverage
-    357c2a8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:53:20Z | Auto-update branch-info.txt
-    81ed610 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T01:50:18Z | Fix test_encrypt.py: Remove invalid mock and use real invalid key for 100% coverage
-    4cf05f6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:42:46Z | Auto-update branch-info.txt

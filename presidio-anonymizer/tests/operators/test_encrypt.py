@@ -58,14 +58,18 @@ class TestEncrypt:
             encrypt.validate(params={"key": invalid_key})
 
     def test_operator_name(self):
-        """Test operator_name property"""
+        """Test that operator_name returns 'encrypt'"""
         encrypt = Encrypt()
-        assert encrypt.operator_name == "encrypt"
+        # CALL THE METHOD with parentheses
+        result = encrypt.operator_name()
+        assert result == "encrypt"
 
     def test_operator_type(self):
-        """Test operator_type property"""
+        """Test that operator_type returns Anonymize"""
         encrypt = Encrypt()
-        assert encrypt.operator_type == OperatorType.Anonymize
+        # CALL THE METHOD with parentheses
+        result = encrypt.operator_type()
+        assert result == OperatorType.Anonymize
 
     @pytest.mark.parametrize("key", [
         # String keys
@@ -81,9 +85,9 @@ class TestEncrypt:
         """Test that validate succeeds for valid key sizes"""
         # Arrange
         encrypt = Encrypt()
-        
+    
         # Act & Assert - should not raise exception
-        Encrypt().validate(params={"key": key})  # FIXED: Use Encrypt().validate
+        Encrypt().validate(params={"key": key})  # Use Encrypt().validate not encrypt.validate
 
     # Test to cover the case where key is None (line 48)
     def test_given_none_key_then_ipe_raised(self):

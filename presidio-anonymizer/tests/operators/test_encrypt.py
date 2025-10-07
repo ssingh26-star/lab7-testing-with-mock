@@ -19,17 +19,17 @@ class TestEncrypt:
 
         assert anonymized_text == expected_anonymized_text
 
-    @mock.patch('presidio_anonymizer.operators.encrypt.AESCipher')
-    def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(self, mock_aes_cipher):
+    @mock.patch('presidio_anonymizer.operators.encrypt.Encrypt.is_valid_key_size')
+    def test_given_verifying_an_invalid_length_bytes_key_then_ipe_raised(self, mock_is_valid_key_size):
         """Test that validate raises error for invalid key length"""
         # Arrange
         encrypt = Encrypt()
         invalid_key = b'1111111111111111'
     
-        # Mock AES.block_size to make the key invalid
-        mock_aes_cipher.block_size = 24  # This makes 16-byte key invalid
+        # Mock is_valid_key_size to return False
+        mock_is_valid_key_size.return_value = False
     
-        # Act & Assert   
+        # Act & Assert
         with pytest.raises(InvalidParamError):
             encrypt.validate(params={"key": invalid_key})
 

@@ -29,7 +29,7 @@ class TestEncrypt:
         # Mock AES.block_size to make the key invalid
         mock_aes_cipher.block_size = 24  # This makes 16-byte key invalid
     
-        # Act & Assert
+        # Act & Assert   
         with pytest.raises(InvalidParamError):
             encrypt.validate(params={"key": invalid_key})
 

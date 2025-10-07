@@ -17,11 +17,11 @@ Branches in this repo (with details):
     474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
 - main
-  SHA: fe30ea839a246bad87f6c1e8fe228e901e7891fa
-  Commits: 25
+  SHA: 81ed610a701bb2d9daa141c079ff2490880746e3
+  Commits: 27
   Recent commits:
+    81ed610 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T01:50:18Z | Fix test_encrypt.py: Remove invalid mock and use real invalid key for 100% coverage
+    4cf05f6 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T01:42:46Z | Auto-update branch-info.txt
     fe30ea8 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T01:42:33Z | Resolve merge conflicts
     45306d3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:43:32Z | Auto-update branch-info.txt
     85accd6 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:43:13Z | Merge lab7 into main
-    23fe1ca | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T22:42:29Z | Current work in progress
-    a78fe2b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T22:37:55Z | Auto-update branch-info.txt

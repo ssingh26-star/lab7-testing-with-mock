@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 2abff0fe410277a8cfb032e7c5ad3e6162614495
+  Commits: 38
+  Recent commits:
+    2abff0f | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T14:19:17Z | Bump python in /presidio-anonymizer
+    e9fae35 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T03:00:50Z | Auto-update branch-info.txt
+    26d0a29 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:58:38Z | Fix Task 3: Add exact mock patterns for is_valid_key_size
+    92c055e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T02:54:24Z | Auto-update branch-info.txt
+    0716b93 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:53:11Z | Complete lab7 with all fixes and merge commit
 - dependabot/github_actions/actions/checkout-5
   SHA: 00ef65981a25a556962ab317d9db1e967015b92d
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     474e9ef | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:31:01Z | added assert keywords in the files
     0171cda | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-06T21:14:01Z | add tests for logging, encrypt operator, and coverage
 - main
-  SHA: 26d0a293a80658721d616ccdfafa6d3a5af6525b
-  Commits: 36
+  SHA: e9fae35a019d2e348531e4a8891da599be9c9cae
+  Commits: 37
   Recent commits:
+    e9fae35 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T03:00:50Z | Auto-update branch-info.txt
     26d0a29 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:58:38Z | Fix Task 3: Add exact mock patterns for is_valid_key_size
     92c055e | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T02:54:24Z | Auto-update branch-info.txt
     0716b93 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:53:11Z | Complete lab7 with all fixes and merge commit
     f256ec6 | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:46:32Z | Merge pull request #1 from ssingh26-star/lab7
-    a50413a | Author: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Committer: Shreya Singh <231575636+ssingh26-star@users.noreply.github.com> | Date: 2025-10-07T02:46:12Z | Merge pull request #1 from ssingh26-star/lab7
